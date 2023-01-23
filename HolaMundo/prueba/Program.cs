@@ -15,7 +15,7 @@ namespace HolaMundo
         static void Main(string[] args)
         {
             //Console.WriteLine("Hola Mundo");
-            System.Console.WriteLine("Hola Mundo Invernal 1.5");
+            System.Console.WriteLine("Hola Mundo Invernal");
         }
     }
 }
